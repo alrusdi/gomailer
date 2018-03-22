@@ -1,0 +1,6 @@
+{
+  "smtplogin": "",
+  "smtppassword": "",
+  "emailsubject": "Хей, {{.Fname}}, привет от мейлера!",
+  "timeout": 2
+}

@@ -1,0 +1,5 @@
+# Start line from # to comment it out
+# Separate recipient name and his email with pipe sign |
+Recipient name | mail@test.com
+
+
